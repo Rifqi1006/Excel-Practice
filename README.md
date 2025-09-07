@@ -1,6 +1,6 @@
 # 📊 Excel Practice
 
-Repository ini berisi kumpulan **latihan** dan **studi kasus praktis** menggunakan **Microsoft Excel** dalam bidang Analisis Data dan Administrasi.
+Repository ini berisi kumpulan latihan dan studi kasus praktis menggunakan Microsoft Excel dalam bidang Analisis Data dan Administrasi.
 
 ---
 
@@ -18,26 +18,26 @@ Setiap studi kasus disimpan dalam file Excel terpisah sesuai dengan topik analis
 ## ⚙️ Fungsi dan Formula yang Digunakan
 Repository ini mencakup penerapan berbagai fungsi dan fitur penting di Excel:  
 
-- **Dasar Analisis Data** → perhitungan aritmatika & logika:  
+- Dasar Analisis Data → perhitungan aritmatika & logika:  
   `SUM`, `AVERAGE`, `IF`, dll.  
 
-- **Lookup & Referensi** → pencarian data dinamis:  
+- Lookup & Referensi → pencarian data dinamis:  
   `VLOOKUP`, `INDEX-MATCH`, `XLOOKUP`  
 
-- **Pengolahan Teks** → manipulasi string:  
+- Pengolahan Teks → manipulasi string:  
   `LEFT`, `RIGHT`, `CONCAT`, dll.  
 
-- **Tanggal & Waktu** → perhitungan umur/durasi:  
+- Tanggal & Waktu → perhitungan umur/durasi:  
   `TODAY`, `DATEDIF`, dll.  
 
-- **Statistik & Analisis** → variasi & distribusi data:  
+- Statistik & Analisis → variasi & distribusi data:  
   `STDEV`, `CORREL`, `NORM.DIST`  
 
-- **Optimasi & Analisis Keputusan** → pemodelan & optimasi:  
+- Optimasi & Analisis Keputusan → pemodelan & optimasi:  
   `Solver`, `Goal Seek`  
 
-- **Pengolahan Data Lanjutan** → eksplorasi & transformasi data:  
-  `Pivot Table`, `Power Query`, fungsi modern (`FILTER`, `SORT`, `UNIQUE`)  
+- Pengolahan Data Lanjutan → eksplorasi & transformasi data:  
+  `Pivot Table`, `Power Query`,`FILTER`, `SORT`, `UNIQUE`  
 
 ---
 
